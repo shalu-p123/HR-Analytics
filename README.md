@@ -39,7 +39,8 @@ In the intial data preparation phase, we performed the following tasks,
 6. Attrition rate Vs Year since last promotion relation
 
 ## Dashboards
-![image](https://github.com/user-attachments/assets/305eaf3d-dd30-46a0-85aa-95cfa5357fb9)
+![image](https://github.com/user-attachments/assets/d18793f7-5273-4e42-8f5a-cdcfea720a05)
+
 
 
 ## Insights 

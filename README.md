@@ -47,6 +47,16 @@ In the intial data preparation phase, we performed the following tasks,
 - For most of job role a longer time since last promotion also have a higher attrition rate.Employees who haven't been promoted in a while are more likely to leave an organisation, leading to higher attrition 
   rates.
 
+## Recommendations
+
+- Compensation and Benefits
+            Salary & Wages, Bonus, Health Insurance , After retirement benefits , Promotions etc.
+- Work Life Balance
+           Flexible work environment , Flexible work timings, wellness programs l like gym, Supportive work culture, collaboration and teamwork , open communication within the team, fun activities in the floor in 
+           a monthly or twice in a week manner, stress from workload, support in tough times and in personal crisis.
+- Career Growth
+           Feedback on the performance , recognize and appreciate the achievements , provide training and development etc.
+
 
 
 

@@ -38,4 +38,26 @@ In the intial data preparation phase, we performed the following tasks,
 
 6. Attrition rate Vs Year since last promotion relation
 
+## Insights 
+
+- Equal head count for both male and female and Equal attrition count for male and female which shows the employee diversity and gender equality also which means that the attrition rate not depending on gender.
+- R&D – Highest attrition rate and lowest income and Hardware – Attrition rate is low ie; There is a tendency for higher average monthly income to correlate with lower attrition rate.
+- Developer, R&S  has highest work life balance and LAB Tech, R&D has low work life balance, means that the Work life balance is also a reason for attrition, High pressure jobs with poor work life balance and 
+  roles with high autonomy and good work life balance.
+- For most of job role a longer time since last promotion also have a higher attrition rate.Employees who haven't been promoted in a while are more likely to leave an organisation, leading to higher attrition 
+  rates.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

@@ -38,6 +38,10 @@ In the intial data preparation phase, we performed the following tasks,
 
 6. Attrition rate Vs Year since last promotion relation
 
+## Dashboards
+![image](https://github.com/user-attachments/assets/305eaf3d-dd30-46a0-85aa-95cfa5357fb9)
+
+
 ## Insights 
 
 - Equal head count for both male and female and Equal attrition count for male and female which shows the employee diversity and gender equality also which means that the attrition rate not depending on gender.

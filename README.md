@@ -39,14 +39,14 @@ In the intial data preparation phase, we performed the following tasks,
 6. Attrition rate Vs Year since last promotion relation
 
 ## Dashboards
-# Excel
+#### Excel
 ![image](https://github.com/user-attachments/assets/d18793f7-5273-4e42-8f5a-cdcfea720a05)
-# PowerBi
+#### PowerBi
 ![image](https://github.com/user-attachments/assets/484aa95b-45ea-45c1-b5f3-99c01b12af23)
 ![image](https://github.com/user-attachments/assets/645d38b1-7bfe-4eeb-956c-d0e1d8490eee)
-# Tableau 
+#### Tableau 
 ![image](https://github.com/user-attachments/assets/2a58b606-04b9-4be5-91da-43aa125d643c)
-# SQL
+#### SQL
 [Uploading Hr_Analysis.sql…]()
 
 ## Insights 
